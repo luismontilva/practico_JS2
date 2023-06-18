@@ -83,3 +83,5 @@ function btnOnClick(event) {
 //Tambien se puede cambiar el tipo de boton en HTML a "button" y asi se ejecutaria normal como un boton normal. (MAS FACIL)
 
 btn.addEventListener('click', btnOnClick); //Se escuchara el evento de submit y se correra la funcion btnOnClick
+
+//hola
